@@ -1,7 +1,8 @@
 # -*- coding: cp936 -*-
 fp1 = open("www.txt",'r')
 fp = open("3d_xlj.txt","w")
-i=0
+
+i=0
 for line in fp1 :
     #print(line[31])#机号
     #print(line[33])#球号
